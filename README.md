@@ -23,4 +23,5 @@ No Bootcamp da [XP](https://www.xpeducacao.com.br) apresenta como utilizar os pr
 
 ## Trilha do bootcamp
 
-[![](https://github.com/masedos/Bootcamp-Engenharia-de-Dados/blob/main/Trilha%20Engenharia%20de%20Dados.png)](https://www.linkedin.com/in/masedos/)
+![Modelo Trilhas 2 (3)](https://user-images.githubusercontent.com/95122776/214391693-42d9246b-9935-45c4-8bfe-76f13eef69f8.png)
+
