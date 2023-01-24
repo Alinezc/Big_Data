@@ -1,20 +1,21 @@
 # Arquiteta de Big Data
 
-<!--`Certificado:` [Acesse aqui](https://github.com/masedos/Bootcamp-Engenharia-de-Dados/blob/main/Fernandes%20Macedo%20RibeiroBootcamp%20Engenharia%20de%20Dados.pdf)-->
+<!--`Certificado:` -->
+</br>
 
-</br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
-bootcamp: [https://www.xpeducacao.com.br/bootcamp/arquiteto-de-big-data](https://www.xpeducacao.com.br/bootcamp/arquiteto-de-big-data)
-</br></br>
+
+Bootcamp: [https://www.xpeducacao.com.br/bootcamp/arquiteto-de-big-data](https://www.xpeducacao.com.br/bootcamp/arquiteto-de-big-data)
+</br>
 
 No Bootcamp da [XP](https://www.xpeducacao.com.br) apresenta como utilizar os principais frameworks do Big Data na coleta, armazenamento e tratamento de dados estruturados e não estruturados para construir soluções  com grandes volumes de dados.
 
-## Conteúdo do bootcamp
+## Conteúdo do Bootcamp
 
 Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos e desafios estudados no bootcamp:
 
-[MÓDULO 1](https://github.com/Alinezc/Big_Data/tree/main/Módulo%201%20-%20Fundamentos%20de%20Big%20Data)| [MÓDULO 2] | [MÓDULO 3] | [MÓDULO 4] | [DESAFIO FINAL]
+[Módulo 1](https://github.com/Alinezc/Big_Data/tree/main/Módulo%201%20-%20Fundamentos%20de%20Big%20Data)| [Módulo 2] | [Módulo 3] | [Módulo 4] | [Desafio Final]
 --------|---------|---------|---------|-------------|
 `32h`   |`32h`    |`32h`    |`32h`    |`16h`        |   
 Fundamentos|Coleta e Obtenção de Dados| Persistência em banco de dados NoSQL |Processamento de dados utilizando o ecossistema hadoop|Desafio Final|
