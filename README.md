@@ -14,7 +14,7 @@ No Bootcamp da [XP](https://www.xpeducacao.com.br) apresenta como utilizar os pr
 
 Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos e desafios estudados no bootcamp:
 
-[MÓDULO 1](https://github.com/masedos/Bootcamp-Engenharia-de-Dados/tree/main/M%C3%B3dulo%201)| [MÓDULO 2] | [MÓDULO 3] | [MÓDULO 4] | [DESAFIO FINAL]
+[MÓDULO 1](https://github.com/Alinezc/Big_Data/tree/main/Módulo%201%20-%20Fundamentos%20de%20Big%20Data)| [MÓDULO 2] | [MÓDULO 3] | [MÓDULO 4] | [DESAFIO FINAL]
 --------|---------|---------|---------|-------------|
 `32h`   |`32h`    |`32h`    |`32h`    |`16h`        |   
 Fundamentos|Coleta e Obtenção de Dados| Persistência em banco de dados NoSQL |Processamento de dados utilizando o ecossistema hadoop|Desafio Final|
