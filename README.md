@@ -21,7 +21,7 @@ Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos 
 Fundamentos|Coleta e Obtenção de Dados| Persistência em banco de dados NoSQL |Processamento de dados utilizando o ecossistema hadoop|Desafio Final|
 |• Introdução ao Big Data <br> • Definição e fundamentos do Big Data(data lake, data warehouse etc)<br> • Introdução aos frameworks e ferramentas do Big Data. <br> • Tecnologias para o Big Data.<br> • Fontes de dados para o Big Data. <br> • Empresas Data Driven.<br> • Capacitação e profissionais do Big Data.| | | | |Conclusão da aplicação final.|
 
-## Trilha do bootcamp
+## Trilha do Bootcamp
 
 ![Modelo Trilhas 2 (3)](https://user-images.githubusercontent.com/95122776/214391693-42d9246b-9935-45c4-8bfe-76f13eef69f8.png)
 
